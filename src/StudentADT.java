@@ -67,11 +67,11 @@ class Student {
 }
 
 
-public class HelloWorld {
+public class StudentADT {
 	
 	public static void main(String[] args) throws IOException {
-	    System.out.println("Hello world!");
-	    
+		// get student info 
+		
 	    boolean moreStudents = true;
 		
 		String firstName;
